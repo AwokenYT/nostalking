@@ -112,5 +112,11 @@
     "id": "19",
     "target": "/cdn/backrooms/index.html",
     "image": "https://play-lh.googleusercontent.com/363qcJv7p0F1lH5n_2WIdEhf45znbtmp-IyOVclu9zN9mFUBjQKO6rJg1q6m0qxjBg"
+  },
+  {
+    "name": "Pandemic 2",
+    "id": "20",
+    "target": "/cdn/pandemic-2/index.html",
+    "image": "https://i.ibb.co/B6J0tq1/pandemic-2.jpg"
   }
 ]
