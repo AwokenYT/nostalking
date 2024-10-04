@@ -12,7 +12,7 @@ let games = [];
 let filteredGames = [];
 
 const load = () => {
-    fetch('/assets/JSON/games.json').then(res => res.json()).then(data => {
+    fetch('https://gist.githubusercontent.com/AwokenYT/e0447923ec7548dcab9588a8bb547d69/raw/1267e07a4a5fb29373aeaabab1be34ac3d62d068/gistfile1.txt').then(res => res.json()).then(data => {
             games = data;
             filteredGames = games;
 
